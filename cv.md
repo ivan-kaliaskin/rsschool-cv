@@ -1,6 +1,7 @@
 1. Ivan Kaliaskin
 2. Contacts:
 - Discord: Brut_Zero#9412
+- LinkedIn: linkedin.com/in/ivan-kaliaskin-a87810249
 3. I have completed my first year at a technical university. I started programming, as it streamlines thinking and develops logic.
 4. Skills:
 - JS
